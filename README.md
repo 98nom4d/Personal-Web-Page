@@ -36,3 +36,11 @@ Depois acesse `http://localhost:8000`.
 
 ## Compatibilidade
 HTML, CSS, JavaScript puro. Sem build, Node, API, servidor ou banco. Compatível com GitHub Pages.
+
+## Contato por WhatsApp
+
+Os botões de contato abrem o WhatsApp de `+34 653 819 815`, com mensagem inicial no idioma selecionado. Altere `whatsappMessages` e o número `34653819815` em `script.js` para personalizar.
+
+## Imagens dos projetos
+
+As capas são tipográficas e não simulam telas reais. Para usar imagens de projetos reais, substitua o conteúdo dos blocos `.project-art` em `index.html` por elementos `<img>` com capturas suas e configure o CSS correspondente.
