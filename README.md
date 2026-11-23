@@ -44,3 +44,9 @@ Os botões de contato abrem o WhatsApp de `+34 653 819 815`, com mensagem inicia
 ## Imagens dos projetos
 
 As capas são tipográficas e não simulam telas reais. Para usar imagens de projetos reais, substitua o conteúdo dos blocos `.project-art` em `index.html` por elementos `<img>` com capturas suas e configure o CSS correspondente.
+
+
+## Ajuste do favicon e logo
+- Os ícones em `assets/favicon.ico`, `assets/favicon.png` e `assets/apple-touch-icon.png` usam a logo JB enviada.
+- Clicar na logo da barra superior leva diretamente ao início da página, sem rolagem suave.
+- Se o ícone antigo persistir na aba, atualize com Ctrl+F5 e feche/abra a aba.
